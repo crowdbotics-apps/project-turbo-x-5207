@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT project_turbo_x_5207.wsgi:application

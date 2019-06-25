@@ -1,0 +1,3 @@
+rootProject.name = 'project_turbo_x_5207'
+
+include ':app'
